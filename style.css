@@ -1,0 +1,34 @@
+body{
+    font-family: 'Bona Nova', serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.name-color{color: rgb(255, 115, 0);}
+p{
+    font-size: 25px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 70%;
+}
+.link-hoynh{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(0, 195, 255),blue);
+    padding: 10px 20px;
+    color: white;
+    font-weight: 900;
+    border-radius: 5px;
+}
+.top{
+    background-image: url(images/top-banner.png);
+    background-repeat:no-repeat;
+
+}
