@@ -27,8 +27,8 @@ section{
     font-weight: 900;
     border-radius: 5px;
 }
-.top{
-    background-image: url(images/top-banner.png);
+.top{background-image: url(images/top-banner.png);
+    
     background-repeat:no-repeat;
 
 }
